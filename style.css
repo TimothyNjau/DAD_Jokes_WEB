@@ -1,0 +1,29 @@
+body{
+   background:linear-gradient(to right, aqua,rgba(38, 197, 99, 0.8));
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-grid{
+   justify-content: center;
+   text-align: center;
+}
+
+.container1{
+   border-radius: 10px;
+   text-align: center;
+
+}
+#startBtn{
+   width: auto;
+   height: 50px;
+   position: relative;
+   margin: 10px;
+   background-color: rgba(209, 14, 21, 0.9);
+   font-size: 15px;
+   font-weight: bold;
+   font-style: italic;
+   border-radius: 25%;
+   cursor: pointer;
+}
+#startBtn:hover{
+   background-color: rgba(175, 32, 37, 0.548);
+}
