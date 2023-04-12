@@ -6,7 +6,7 @@ NextBtn.addEventListener('click', nextJoke);
 HomeBtn.addEventListener('click',goHome);
 
 function goHome(){
-   parent.location='C:/Users/LENOVO/Desktop/Studies/5th year/App programming/Dad Jokes/index.html'
+   parent.location='./index.html'
 }
 
 let j = 0;
